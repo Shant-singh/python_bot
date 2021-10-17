@@ -1,2 +1,2 @@
 # python_bot
-hacktoberfest
+Telegram bot t_zodiac
